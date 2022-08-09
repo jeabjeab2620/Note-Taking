@@ -1,6 +1,7 @@
 # Hyeon Kim's Note
 
-## AUthor
+## Author
 - [Hyeon Kim](https://github.com/jeabjeab2620)
 
-## 1. CompTIA Security+ SY0-501
+## 1. Security
+> 1. [CompTIA Security+ SY0-501](https://github.com/jeabjeab2620/Note-Taking/blob/master/Security/README.md)
